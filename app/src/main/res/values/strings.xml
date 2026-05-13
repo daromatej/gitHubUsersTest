@@ -1,3 +1,9 @@
 <resources>
   <string name="app_name">stack</string>
+  <string name="screen_title">StackOverflow Users</string>
+  <string name="button_follow">Follow</string>
+  <string name="button_following">Following</string>
+  <string name="button_retry">Retry</string>
+  <string name="error_loading_users">Failed to load users</string>
+  <string name="content_description_profile_image">%s profile image</string>
 </resources>
